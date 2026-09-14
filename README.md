@@ -16,7 +16,7 @@ This repository contains the complete Infrastructure as Code (IaC), Docker Compo
 * **Raspberry Pi 4 (Witness & Monitoring Node - ARM64):**
   * BCM2711 Quad-Core @ 1.5 GHz
   * Services: `prometheus`, `grafana`, `uptime-kuma`, `cloudflared-fallback`
-* **Starlink Gen 3:** Low-latency satellite gateway in Bypass Mode.
+* **Edge Gateway:** High-throughput WAN gateway in Bypass Mode.
 * **Network Overlay:** Zero Trust via Cloudflare Tunnels and Tailscale Mesh (WireGuard P2P).
 
 ---
